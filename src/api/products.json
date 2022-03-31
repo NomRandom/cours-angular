@@ -1,0 +1,22 @@
+[
+    {
+      "productId": 5,
+      "productName": "Garden Cart v2",
+      "productCode": "GDN-0023",
+      "releaseDate": "2022-03-29",
+      "description": "description 1",
+      "price": 32.99,
+      "starRating": 4.2,
+      "imageUrl": "assets/images/brouette.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "manette v5",
+        "productCode": "GDN-00gae",
+        "releaseDate": "2022-03-11",
+        "description": "description 12",
+        "price": 55.99,
+        "starRating": 3.2,
+        "imageUrl": "assets/images/manette.png"
+      }
+  ]
